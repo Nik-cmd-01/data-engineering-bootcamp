@@ -6,7 +6,7 @@ with open("languages.txt", "r") as file:
     for line in file:
         languages.append(line.strip())  # remove newline characters
 
-print("Languages List:", languages)
+print("Nikita Languages List:", languages)
 
 language_dict = {lang: len(lang) for lang in languages}
 print("Language Dictionary:", language_dict)
