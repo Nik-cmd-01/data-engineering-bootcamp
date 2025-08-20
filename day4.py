@@ -1,4 +1,4 @@
-# Day 44444: Read file into a list
+# Day 4: Read file into a list
 
 languages = []
 
